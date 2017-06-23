@@ -1,10 +1,13 @@
-html, body, canvas {
+html, body {
   margin: 0;
   padding: 0;
   height: 300px;
   width: 300px;
   background: black;
-  overflow: hidden;
+}
+
+canvas {
+  display: block;
 }
 
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
