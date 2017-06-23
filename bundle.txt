@@ -1,4 +1,6 @@
-
+body {
+  background: black;
+}
 
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
@@ -6,9 +8,7 @@
 <head>
 </head>
 <body>
-  <div id='appContainer'>
-    <canvas width='300' height='300' />
-  </div>
+  <canvas width='300' height='300' />
 </body>
 <html>
 
